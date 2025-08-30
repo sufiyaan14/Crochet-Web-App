@@ -1,4 +1,4 @@
-# 🧶 Crochet Web Application (HTML/CSS/JS)
+# Crochet Web Application (HTML/CSS/JS)
 
 A simple frontend-only crochet patterns gallery with search.
 
